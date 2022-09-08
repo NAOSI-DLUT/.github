@@ -1,6 +1,6 @@
 # NAOSI-DLUT
 
-![logo](./logo.jpg)
+![logo](https://github.com/NAOSI-DLUT/.github/blob/main/profile/logo.jpg)
 
 Network And Open Source Initial of Dalian University of Technology
 
