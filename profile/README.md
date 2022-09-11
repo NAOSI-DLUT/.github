@@ -10,3 +10,5 @@ Network And Open Source Initial of Dalian University of Technology
 * Zero Bar
 * Open Source
 * Powered by Tech
+
+Sub-Organization: [DUT Unix Like User Group](https://github.com/DUT-Unix-Like-Group)
