@@ -11,4 +11,7 @@ Network And Open Source Initial of Dalian University of Technology
 * Open Source
 * Powered by Tech
 
-Sub-Organization: [DUT Unix Like User Group](https://github.com/DUT-Unix-Like-Group)
+Related-Organization:
+
+* [DUT Unix Like User Group](https://github.com/DUT-Unix-Like-Group)
+* [Datawhale](https://github.com/datawhalechina)
