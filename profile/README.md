@@ -14,4 +14,5 @@ Network And Open Source Initial of Dalian University of Technology
 Related-Organization:
 
 * [DUT Unix Like User Group](https://github.com/DUT-Unix-Like-Group)
+* [DLUT IPv6 Group](https://t.me/joinchat/phhKpJ9bk584NmU1)
 * [Datawhale](https://github.com/datawhalechina)
