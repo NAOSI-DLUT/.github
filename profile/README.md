@@ -13,6 +13,6 @@ Network And Open Source Initial of Dalian University of Technology
 
 Related-Organization:
 
-* [DUT Unix Like User Group](https://github.com/DUT-Unix-Like-Group)
-* [DLUT IPv6 Group](https://t.me/joinchat/phhKpJ9bk584NmU1)
-* [Datawhale](https://github.com/datawhalechina)
+* DUT Unix Like User Group [GitHub](https://github.com/DUT-Unix-Like-Group) | [Telegram](https://t.me/+k068VgMwtUowMjdl)
+* DLUT IPv6 Group [Telegram](https://t.me/joinchat/phhKpJ9bk584NmU1) | [QQ Group](https://jq.qq.com/?_wv=1027&k=UFubgs5E)
+* Datawhale [GitHub](https://github.com/datawhalechina)
