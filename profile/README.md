@@ -1,6 +1,6 @@
-<img width="200px" src="logo.svg" align="right" alt="logo">
-
 # Network And Open Source Institute
+
+<img width="200px" src="logo.svg" align="right" alt="logo">
 
 大连理工大学网络与开源软件协会
 
