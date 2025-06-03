@@ -2,9 +2,9 @@
 
 <img width="200px" src="logo.svg" align="right" alt="logo">
 
-大连理工大学网络与开源协会
+## 大连理工大学网络与开源协会
 
-[🏠 Homepage](https://naosi.org) | [💬 Discussion](https://github.com/orgs/NAOSI-DLUT/discussions) | [🐧 QQ Group](https://qm.qq.com/q/7MtavKTyms) | [📺 Bilibili](https://space.bilibili.com/1058346981) | [💬 DUTYard](https://yard.naosi.org)
+[🏠 Homepage](https://naosi.org) | [💬 Discussion](https://github.com/orgs/NAOSI-DLUT/discussions) | [🐧 QQ Group](https://qm.qq.com/q/7MtavKTyms) | [📺 Bilibili](https://space.bilibili.com/1058346981)
 
 - For DUTers
 - Zero Bar
