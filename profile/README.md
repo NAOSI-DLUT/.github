@@ -1,4 +1,4 @@
-# Network And Open Source Institute
+# Network And Open Source Initiative
 
 <img width="200px" src="logo.svg" align="right" alt="logo">
 
